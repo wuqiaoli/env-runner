@@ -50,7 +50,7 @@
 
 **修改后，插件会自动更新环境列表！** 🎯
 
-![Env Runner 示例](images/20250318-103929.png)
+![Env Runner 示例](https://github.com/wuqiaoli/env-runner/blob/main/images/20250318-103929.png?raw=true)
 
 ## **📜 许可证**
 
