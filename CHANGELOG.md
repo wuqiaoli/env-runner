@@ -15,3 +15,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 1.3.0
 
 - 新增 demo
+
+## 1.4.0
+
+- 修复未配置逻辑错误
